@@ -1,0 +1,82 @@
+Sun tzu;The art of war;2008;67.00;1;-;-
+Bernard Werber;Le Souffle des dieux;2005;95.00;1;-;-
+L'Ultime Secret;Bernard Werber;2001;93.50;1;-;-
+Bernard Werber;Le Souffle des dieux;2005;94.00;1;-;-
+Guillaume musso;7ans apres;2012;79.00;-1;-;-
+Bernard Werber;Le Sixieme Sommeil;2015;140.50;1;-;-
+Ahmed khaled mustapha;Antikhrisstos;2015;90.00;1;-;-
+Sigmund Freud;Le Moi et le ca;1923;61.00;1;-;-
+Albert Einstein;Comment je vois le monde;1934;72.00;1;-;-
+Victor Hugo;L'Homme qui rit;1869;82.00;1;-;-
+Jean Jacques Rousseau;Les Confessions;1782;32.80;1;-;-
+Fiodor Dostoievski;Crime et Chatiment;1866;81.00;1;-;-
+Gandhi;The Story of My Experiments with Truth;1927;169.50;1;-;-
+Charles Darwin;L'Origine des especes;1859;120.00;1;-;-
+Nicolas Machiavel;Le prince;1532;32.00;1;-;-
+Virginia Woolf;Mrs Dalloway;1925;65.00;1;-;-
+Charles Dickens;David Copperfield;1850;81.00;1;-;-
+Ibn Khaldoune;AL Moquadima;1377;80.00;1;-;-
+Adolf Hitler;Mein Kampf;1925;360.00;1;-;-
+Guillaume musso;Demain;2014;79.00;1;-;-
+Mustapha Mahmoude;Hiwar maa sadiki al moulhid;1986;70.00;1;-;-
+Bernard Werber;L'Ultime Secret;2001;69.90;1;-;-
+Sigmund Freud;L'interpretation du reve;1899;180.00;1;-;-
+Jean-Jacques Rousseau;Le Contrat Social;1762;33.00;1;-;-
+Guillaume musso;Et apres;2013;77.80;1;-;-
+Ahmed khaled tawfik;youtubia;2008;105.00;1;-;-
+Charles Dickens;Bleak House;1853;96.50;1;-;-
+Charles Darwin;L'Expression des emotions chez l'homme et les animaux;1872;130.00;1;-;-
+Virginia Woolf;The Waves;1931;41.70;1;-;-
+Fiodor Dostoievski;Journal d'un ecrivain;1877;69.00;1;-;-
+Mustapha Mahmoude;Loghze al maout;1999;85.00;1;-;-
+Nicolas Machiavel;Histoire de Florence;1532;120.00;1;-;-
+John Hart;La Riviere;2010;129.50;1;-;-
+Paula Hawkins;La Fille du train;2015;329.50;1;-;-
+John Hart;L'enfance perdu;2011;139.50;1;-;-
+John Hart;Le Roi des mensonges;2001;129.50;1;-;-
+Jean christoph Grange;Congo Requiem;2016;349.50;1;-;-
+Zig Ziglar;See you at the top;1975;100.00;1;-;-
+Charles F.Hoonel;The master key system;1916;126.50;1;-;-
+George clason;The richest man in babylon;2000;98.00;1;-;-
+Wallas watles;The science of getting rich;1910;165.00;1;-;-
+Marry Higgins clark;Et nous nous reverrons;1999;98.00;1;-;-
+Jean Anouilh;Antigone;1946;36.00;1;-;-
+Le Sixieme Sommeil;Bernard Werber;2015;140.05;1;-;-
+Jules verne;Le tour du monde en 80 jours;1872;97.00;1;-;-
+Ahmed sefrioui;Boite a merveilles;1954;54.00;1;-;-
+Iris Johansen;Pandora's Daughter;2008;79.00;1;-;-
+Contesse de segur;Les petites filles modeles;1858;55.00;1;-;-
+Moliere;Le bourgeois gentilhomme;1670;45.00;1;-;-
+Patrick vendamme;Sous la neige l'orchidee;1992;120.00;1;-;-
+Mohamed khair eddine;Ce maroc!;1975;35.00;1;-;-
+Mohamed khair eddine;moi l'Aigre;1970;25.00;1;-;-
+Mohamed khair eddine;Le Deterreur;1973;66.00;1;-;-
+Abd lmjid ben jeloune;wadi ddimae;1986;12.00;1;-;-
+Tawfik al hakim;Ahlo lkahf;1933;45.00;1;-;-
+Tawfik al hakim;achaab;1938;40.00;1;-;-
+Ian Manook;Les temps sauvages;2016;149.50;1;-;-
+Jonathan Franzen;Purity;2016;349.50;1;-;-
+Terry Hayes;Je suis pilgrim;2015;159.50;1;-;-
+Ken Follett;Aux portes de l'eternite;2016;195.60;1;-;-
+Elena ferrante;L'amie prodigieuse;2016;149.50;1;-;-
+Anne frank;Le journal d'Anne frank;2013;129.50;1;-;-
+Daniel Renaud;Cellule 8002 vs Mafia:L'histoire jamais racontee;2016;269.50;1;-;-
+Veronique lettre;Plus fou que ca...tumeur;2016;177.50;1;-;-
+Kim Thuy;Vi;2016;179.50;1;-;-
+Boucar Diouf;Rendez a ces arbres ce qu'appartient a ces arbres;2013;160.00;1;-;-
+Michel david;Mensonge sur le plateau mont_royal;2013;200.00;1;-;-
+Maxime Landry;Tout mon temps pour toi;2016;123.00;1;-;-
+Nathalie apaetrowski;Un ete a no damn good;2016;90.00;1;-;-
+Isabelle Lafleche;J'adore Rome;2016;100.00;1;-;-
+Jean paul Didierlaurent;Le reste de leur vie;1999;96.00;1;-;-
+Anne Marie Macdonald;Le vol du corbeau;2016;120.00;1;-;-
+Jean Pierre chaland;Pere et mere tu honoreras;2016;209.00;1;-;-
+Marie Eve bourssa;Red light;2015;199.99;1;-;-
+Denis Theriault;La fiancee du facteur;2016;140.00;1;-;-
+Agnes gruda;Mourir,mais pas trop;2016;180.00;1;-;-
+Josee Bournival;Bebe boum;2016;210.00;-1;-;-
+Guy de maupassant;La parure;1884;75.00;1;-;-
+Emile zola;l'argent;1891;55.00;1;-;-
+Marivaux;Les fausses confidences;1738;90.00;1;-;-
+Paulo coelo;Adultere;2014;45.00;1;-;-
+Said Benha;Make money online;2016;230.00;1;-;-

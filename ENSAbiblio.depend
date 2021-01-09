@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1495674973 source:c:\users\darfi\desktop\ensabib\ensabiblio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	"header.h"
+
+1495675017 c:\users\darfi\desktop\ensabib\ensabiblio\header.h
+
+1610179190 source:d:\omar's world\ensa\ensa2\ensabib\ensabiblio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	"header.h"
+
+1495678112 d:\omar's world\ensa\ensa2\ensabib\ensabiblio\header.h
+
