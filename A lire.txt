@@ -1,6 +1,0 @@
-- Mot de passe est 'ensabiblio'
-- On ne touche pas au fichier bibliotheque.txt
-- Seul le programme de gestion de la bibliothèque peut ouvrir index.html 
-- Aucune information ne sera fournie.
-- index.html sert à afficher tous les livres de la bibliothèque.
-- Pour plus de renseignements, veuillez consulter l'application !
